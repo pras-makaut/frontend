@@ -55,17 +55,7 @@ h1{
   height: 50px;
   border-radius: 20px;
 }
-.anne{
-  position: absolute;
-  top: 450px;
-  right: 100px;
-  bottom:150px;
-  border-radius: 10px;
-  width: 25%;
-  height: 250px;
-  background-color: #654062;
 
-}
 .anne1{
   position: absolute;
   top: 30px;
@@ -91,17 +81,7 @@ h1{
   width: 80%;
   color: #e5e5e5;
 }
-.colon{
-  position: absolute;
-  top: 410px;
-  left: 100px;
-  bottom:150px;
-  border-radius: 10px;
-  width: 25%;
-  height: 250px;
-  background-color: #654062;
 
-}
 .colon1{
   position: absolute;
   top: 30px;
@@ -127,17 +107,8 @@ h1{
   width: 80%;
   color: #e5e5e5;
 }
-.irene{
-  position: absolute;
-  top: 430px;
-  left: 570px;
-  bottom:150px;
-  border-radius: 10px;
-  width: 25%;
-  height: 250px;
-  background-color: #654062;
 
-}
+
 .irene1{
   position: absolute;
   top: 30px;
