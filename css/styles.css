@@ -143,3 +143,7 @@ h1{
   top: 100px;
   right: 0;
 }
+.sec{
+  display:flex;
+  justify-content: space-between;
+}
