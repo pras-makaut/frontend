@@ -1,0 +1,174 @@
+body{
+  font-family: 'Spartan', sans-serif;
+}
+h1{
+  width: 15%;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 100px;
+  margin-top: 100px;
+  color: #654062;
+
+}
+
+.f1{
+  position: absolute;
+  top: 0;
+}
+.f2{
+  color: #5eaaa8;
+  position: absolute;
+  top: 200px;
+  left: 107px;
+  width: 25%;
+}
+.p1{
+  float: right;
+}
+.p1{
+  background-color: #e5e5e5;
+  text-align: center;
+  position: absolute;
+  right: 200px;
+  top: 100px;
+  width: 400px;
+  height: 50px;
+
+  border-radius: 20px;
+}
+.p2{
+  background-color: #e5e5e5;
+  text-align: center;
+  position: absolute;
+  right: 180px;
+  top: 180px;
+  width: 400px;
+  height: 50px;
+  border-radius: 20px;
+}
+.p3{
+  background-color: #e5e5e5;
+  text-align: center;
+  position: absolute;
+  right: 160px;
+  top: 260px;
+  width: 400px;
+  height: 50px;
+  border-radius: 20px;
+}
+.anne{
+  position: absolute;
+  top: 450px;
+  right: 100px;
+  bottom:150px;
+  border-radius: 10px;
+  width: 25%;
+  height: 250px;
+  background-color: #654062;
+
+}
+.anne1{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 50%;
+}
+.aneename{
+  position: absolute;
+  top: 30px;
+  color: #e5e5e5;
+  left: 130px;
+}
+.aneec{
+  position: absolute;
+  top: 60px;
+  color: #b83b5e;
+  left: 130px;
+}
+.aneedes{
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  width: 80%;
+  color: #e5e5e5;
+}
+.colon{
+  position: absolute;
+  top: 410px;
+  left: 100px;
+  bottom:150px;
+  border-radius: 10px;
+  width: 25%;
+  height: 250px;
+  background-color: #654062;
+
+}
+.colon1{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 50%;
+}
+.colonname{
+  position: absolute;
+  top: 30px;
+  color: #e5e5e5;
+  left: 130px;
+}
+.colonc{
+  position: absolute;
+  top: 60px;
+  color: #b83b5e;
+  left: 130px;
+}
+.colondes{
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  width: 80%;
+  color: #e5e5e5;
+}
+.irene{
+  position: absolute;
+  top: 430px;
+  left: 570px;
+  bottom:150px;
+  border-radius: 10px;
+  width: 25%;
+  height: 250px;
+  background-color: #654062;
+
+}
+.irene1{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border-radius: 50%;
+}
+.irenename{
+  position: absolute;
+  top: 30px;
+  color: #e5e5e5;
+  left: 130px;
+}
+.irenec{
+  position: absolute;
+  top: 60px;
+  color: #b83b5e;
+  left: 130px;
+}
+.irenedes{
+  position: absolute;
+  top: 100px;
+  left: 20px;
+  width: 80%;
+  color: #e5e5e5;
+}
+.i1{
+  position: absolute;
+  top: 0;
+}
+.f5{
+  position: absolute;
+  top: 100px;
+  right: 0;
+}
